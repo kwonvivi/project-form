@@ -1,4 +1,4 @@
-package kompas.pageobjects;
+package flip.pageobjects;
 
 import java.util.Random;
 

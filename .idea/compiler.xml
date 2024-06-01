@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="project-form" />
+        <module name="project-form-flip" />
         <module name="selvia" />
       </profile>
     </annotationProcessing>
